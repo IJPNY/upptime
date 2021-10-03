@@ -15,7 +15,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Pilsudski Institute Sites Monitor**"
+  introTitle: "**Piłsudski Institute Sites Monitor**"
   introMessage: Status updated every hour
   navbar:
     - title: Status
