@@ -23,10 +23,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://IJPN.github.io/upptime)
+[**Visit our status website →**](https://IJPNY.github.io/upptime)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [IJPN](https://IJPN.github.io/upptime)
+- Code: [MIT](./LICENSE) © [IJPNY](https://IJPNY.github.io/upptime)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
