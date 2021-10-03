@@ -40,19 +40,19 @@
     "url": "http://www.pilsudskilibrary.org",
     "icon": "https://favicons.githubusercontent.com/www.pilsudskilibrary.org",
     "slug": "pilsudski-katalog-biblioteki",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 3372,
-    "timeDay": 3372,
-    "timeWeek": 3372,
-    "timeMonth": 3372,
-    "timeYear": 3372,
+    "status": "up",
+    "uptime": "95.57%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "95.57%",
+    "uptimeYear": "95.57%",
+    "time": 3311,
+    "timeDay": 3311,
+    "timeWeek": 3311,
+    "timeMonth": 3311,
+    "timeYear": 3311,
     "dailyMinutesDown": {
-      "2021-10-03": 0
+      "2021-10-03": 11
     }
   },
   {
