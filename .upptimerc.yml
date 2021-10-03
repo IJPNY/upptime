@@ -1,14 +1,13 @@
-# Change these first
 owner: IJPN
 repo: upptime
 
 sites:
   - name: Pilsudski Institute
-    url: https://pilsudski.org/
+    url: https://pilsudski.org
   - name: Pilsudski Archiwa Online
-    url: http://archiwa.pilsudski.org/
+    url: http://archiwa.pilsudski.org
   - name: Pilsudski Katalog Biblioteki
-    url: http://www.pilsudskilibrary.org/
+    url: http://www.pilsudskilibrary.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
