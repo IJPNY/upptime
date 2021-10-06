@@ -4,9 +4,9 @@
     "url": "https://pilsudski.org",
     "icon": "https://favicons.githubusercontent.com/pilsudski.org",
     "slug": "pilsudski-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 798,
     "timeMonth": 798,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-06": 0
+    }
   },
   {
     "name": "Pilsudski Archiwa Online",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/www.pilsudskilibrary.org",
     "slug": "pilsudski-katalog-biblioteki",
     "status": "up",
-    "uptime": "96.92%",
+    "uptime": "97.09%",
     "uptimeDay": "92.37%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.92%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "97.09%",
     "time": 3214,
     "timeDay": 3035,
     "timeWeek": 3214,
