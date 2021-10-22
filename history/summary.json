@@ -24,10 +24,10 @@
     "url": "http://archiwa.pilsudski.org",
     "icon": "https://favicons.githubusercontent.com/archiwa.pilsudski.org",
     "slug": "pilsudski-archiwa-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
@@ -35,7 +35,9 @@
     "timeWeek": 240,
     "timeMonth": 244,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-22": 1
+    }
   },
   {
     "name": "Pilsudski Katalog Biblioteki",
@@ -43,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/www.pilsudskilibrary.org",
     "slug": "pilsudski-katalog-biblioteki",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 3367,
     "timeDay": 4444,
     "timeWeek": 3536,
@@ -72,7 +74,7 @@
     "url": "https://powstania.pilsudski.org",
     "icon": "https://favicons.githubusercontent.com/powstania.pilsudski.org",
     "slug": "powstania-slaskie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -83,6 +85,8 @@
     "timeWeek": 198,
     "timeMonth": 249,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-22": 0
+    }
   }
 ]
