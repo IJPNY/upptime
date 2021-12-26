@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 947,
-    "timeDay": 823,
-    "timeWeek": 814,
-    "timeMonth": 842,
+    "timeDay": 942,
+    "timeWeek": 830,
+    "timeMonth": 846,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2021-10-06": 12
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 218,
-    "timeDay": 147,
-    "timeWeek": 190,
+    "time": 217,
+    "timeDay": 126,
+    "timeWeek": 184,
     "timeMonth": 193,
-    "timeYear": 218,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2021-10-22": 23
     }
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/www.pilsudskilibrary.org",
     "slug": "pilsudski-katalog-biblioteki",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 3338,
-    "timeDay": 4501,
-    "timeWeek": 3694,
-    "timeMonth": 3466,
+    "timeDay": 3313,
+    "timeWeek": 3705,
+    "timeMonth": 3482,
     "timeYear": 3338,
     "dailyMinutesDown": {
       "2021-12-14": 17,
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 264,
-    "timeDay": 150,
-    "timeWeek": 228,
-    "timeMonth": 235,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 231,
+    "timeWeek": 230,
+    "timeMonth": 233,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2021-10-22": 23
     }
