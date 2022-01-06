@@ -1,7 +1,7 @@
 url: https://pilsudski.org
-status: down
-code: 502
-responseTime: 14856
-lastUpdated: 2022-01-06T05:42:52.828Z
+status: up
+code: 200
+responseTime: 669
+lastUpdated: 2022-01-06T05:54:57.979Z
 startTime: Sun Oct 03 2021 01:49:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
