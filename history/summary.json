@@ -4,9 +4,9 @@
     "url": "https://pilsudski.org",
     "icon": "https://favicons.githubusercontent.com/pilsudski.org",
     "slug": "pilsudski-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 893,
     "timeYear": 1053,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-26": 26,
       "2022-02-09": 176,
       "2022-01-31": 16,
@@ -56,7 +57,7 @@
     "uptimeYear": "99.23%",
     "time": 3399,
     "timeDay": 4977,
-    "timeWeek": 3783,
+    "timeWeek": 3889,
     "timeMonth": 3443,
     "timeYear": 3399,
     "dailyMinutesDown": {
