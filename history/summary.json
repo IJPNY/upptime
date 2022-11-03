@@ -138,18 +138,19 @@
     "url": "https://powstania.pilsudski.org",
     "icon": "https://icons.duckduckgo.com/ip3/powstania.pilsudski.org.ico",
     "slug": "powstania-slaskie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 317,
-    "timeWeek": 297,
-    "timeMonth": 265,
+    "timeDay": 252,
+    "timeWeek": 283,
+    "timeMonth": 262,
     "timeYear": 274,
     "dailyMinutesDown": {
+      "2022-11-03": 0,
       "2022-04-08": 29
     }
   }
