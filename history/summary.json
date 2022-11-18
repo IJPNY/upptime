@@ -50,10 +50,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pilsudskilibrary.org.ico",
     "slug": "pilsudski-katalog-biblioteki",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.45%",
+    "uptime": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.41%",
     "time": 3464,
     "timeDay": 3250,
@@ -61,7 +61,6 @@
     "timeMonth": 3300,
     "timeYear": 3488,
     "dailyMinutesDown": {
-      "2022-11-17": 9,
       "2022-11-10": 29,
       "2022-10-29": 44,
       "2022-10-22": 51,
@@ -130,8 +129,7 @@
       "2021-12-05": 30,
       "2021-11-30": 17,
       "2021-11-24": 18,
-      "2021-11-23": 15,
-      "2021-11-18": 194
+      "2021-11-23": 15
     }
   },
   {
