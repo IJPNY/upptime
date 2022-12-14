@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 991,
-    "timeDay": 1145,
-    "timeWeek": 782,
-    "timeMonth": 915,
-    "timeYear": 997,
+    "timeDay": 657,
+    "timeWeek": 787,
+    "timeMonth": 917,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2022-09-18": 17,
       "2022-09-07": 33,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 178,
-    "timeWeek": 224,
+    "timeDay": 215,
+    "timeWeek": 242,
     "timeMonth": 213,
-    "timeYear": 199,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -51,14 +51,14 @@
     "slug": "pilsudski-katalog-biblioteki",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.43%",
     "time": 3462,
-    "timeDay": 4143,
-    "timeWeek": 3669,
-    "timeMonth": 3377,
+    "timeDay": 2958,
+    "timeWeek": 3653,
+    "timeMonth": 3378,
     "timeYear": 3499,
     "dailyMinutesDown": {
       "2022-12-12": 19,
@@ -127,8 +127,7 @@
       "2022-01-10": 81,
       "2022-01-09": 61,
       "2022-01-05": 16,
-      "2021-12-26": 17,
-      "2021-12-14": 17
+      "2021-12-26": 17
     }
   },
   {
@@ -142,10 +141,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 286,
-    "timeDay": 518,
-    "timeWeek": 400,
-    "timeMonth": 391,
+    "time": 287,
+    "timeDay": 465,
+    "timeWeek": 422,
+    "timeMonth": 393,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2022-11-03": 53,
