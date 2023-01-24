@@ -30,10 +30,10 @@
     "url": "http://archiwa.pilsudski.org",
     "icon": "https://icons.duckduckgo.com/ip3/archiwa.pilsudski.org.ico",
     "slug": "pilsudski-archiwa-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
@@ -41,7 +41,9 @@
     "timeWeek": 144,
     "timeMonth": 179,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 1
+    }
   },
   {
     "name": "Pilsudski Katalog Biblioteki",
@@ -56,7 +58,7 @@
     "uptimeYear": "99.44%",
     "time": 3467,
     "timeDay": 2762,
-    "timeWeek": 2954,
+    "timeWeek": 2992,
     "timeMonth": 3288,
     "timeYear": 3464,
     "dailyMinutesDown": {
@@ -136,9 +138,9 @@
     "url": "https://powstania.pilsudski.org",
     "icon": "https://icons.duckduckgo.com/ip3/powstania.pilsudski.org.ico",
     "slug": "powstania-slaskie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -148,6 +150,7 @@
     "timeMonth": 587,
     "timeYear": 325,
     "dailyMinutesDown": {
+      "2023-01-24": 0,
       "2023-01-17": 19,
       "2022-11-03": 53,
       "2022-04-08": 29
