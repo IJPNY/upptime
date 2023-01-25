@@ -32,9 +32,9 @@
     "slug": "pilsudski-archiwa-online",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 203,
     "timeDay": 199,
@@ -42,7 +42,7 @@
     "timeMonth": 181,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-01-25": 53,
+      "2023-01-25": 66,
       "2023-01-24": 35
     }
   },
@@ -139,9 +139,9 @@
     "url": "https://powstania.pilsudski.org",
     "icon": "https://icons.duckduckgo.com/ip3/powstania.pilsudski.org.ico",
     "slug": "powstania-slaskie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "93.94%",
+    "uptimeDay": "93.92%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.96%",
